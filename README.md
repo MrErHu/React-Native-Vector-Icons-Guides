@@ -1,6 +1,6 @@
 # React-Native-Vector-Icons-Guides
 
-文章地址: [Issue](https://github.com/MrErHu/blog/issues/15)
+文章地址: [React Native与Iconfont](https://github.com/MrErHu/blog/issues/15)
 
 运行:
 
